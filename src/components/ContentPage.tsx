@@ -41,7 +41,7 @@ function ContentPage():JSX.Element{
         <div className="main-div">
         <div className="section">
             <div className="section-header">
-               <div><h3><b>Personal Details..</b></h3></div>
+               <div><h3><b>Personal Details...</b></h3></div>
                <div><button onClick={()=>togglePopup('isOpenPersonal')}>Edit ✍🏻</button></div> 
             </div>
 
